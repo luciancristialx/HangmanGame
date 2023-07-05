@@ -1,0 +1,5 @@
+1. Understand the requirements
+2. Think about the solution
+3. Algorithm
+4. Main logic
+5. Required updates

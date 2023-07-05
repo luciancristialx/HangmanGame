@@ -1,0 +1,15 @@
+coding
+function
+method
+python
+numpy
+automation
+tuple
+loops
+variables
+integers
+strings
+ide
+library
+refactor
+git
